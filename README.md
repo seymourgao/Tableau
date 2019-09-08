@@ -1,4 +1,4 @@
-# Amazon
+# tableau
 
 # :blush: tableau模拟某公司销售额与利润分析
 
