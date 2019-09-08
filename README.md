@@ -9,7 +9,7 @@
 
 ## 结果展示
 
-![](https://github.com/seymourgao/Photo/blob/master/8.png)
+![](https://github.com/seymourgao/Photo/blob/master/%E9%94%80%E5%94%AE%E9%A2%9D%E4%B8%8E%E5%88%A9%E6%B6%A6%E5%88%86%E6%9E%90_Page1.png)
 ![](https://github.com/seymourgao/Photo/blob/master/9.png)
 
 
